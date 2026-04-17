@@ -2,6 +2,10 @@
 
 This folder contains the demo assets used in the Doqlo Bulk Fill walkthrough for filling a fillable PDF form from CSV.
 
+## Video walkthrough
+
+https://www.youtube.com/watch?v=JjLdroKX250
+
 ## Files
 
 - `i-9-demo.csv` — sample CSV data used in the walkthrough

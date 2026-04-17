@@ -4,8 +4,8 @@ This folder contains the demo assets used in the Doqlo Bulk Fill walkthrough for
 
 ## Files
 
-- `demo.csv` — sample CSV data used in the walkthrough
-- `demo.doqlo` — saved Doqlo project with field-to-column mappings
+- `i-9-demo.csv` — sample CSV data used in the walkthrough
+- `i-9-demo.doqlo` — saved Doqlo project with field-to-column mappings
 - `preview-example.pdf` — example preview export
 - `batch-export-example.zip` — example batch export output
 
